@@ -22,5 +22,5 @@ text = {
 }
 
 tag = FormBuilder.new(text)
-
 puts tag.text
+
